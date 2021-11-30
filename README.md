@@ -1,2 +1,2 @@
-# port_scan.sh
+# port_scan.py
 <!-- Opã bão meu primeiro projeto :)
